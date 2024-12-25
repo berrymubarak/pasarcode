@@ -2303,6 +2303,7 @@ input[type="file"].form-control {
     text-align: center;
     padding: 40px 30px;
     background-color: #fff;
+    color: #fff;
     border-radius: 8px;
     height: 100%;
 }
@@ -2509,7 +2510,7 @@ input[type="file"].form-control {
 
 .custom-tabs-item.active {
     border-color: var(--primary_color);
-    color: var(--primary_color);
+    color: var(--text_color);
 }
 
 .item-single-title {
