@@ -3329,7 +3329,7 @@ input[type="file"].form-control {
 }
 
 .tabs-custom .nav-link {
-    color: var(--primary_color);
+    color: var(--text_color);
 }
 
 .tabs-custom .nav-link.active {
