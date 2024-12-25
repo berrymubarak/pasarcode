@@ -2303,7 +2303,7 @@ input[type="file"].form-control {
     text-align: center;
     padding: 40px 30px;
     background-color: #fff;
-    color: #fff;
+    color: #000;
     border-radius: 8px;
     height: 100%;
 }
