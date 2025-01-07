@@ -1065,7 +1065,7 @@ input[type="file"].form-control {
 
 .announcement {
     padding: 14px 12px;
-    color: #fff;
+    color: #000;
     overflow: hidden;
     -webkit-user-select: none;
     -moz-user-select: none;
