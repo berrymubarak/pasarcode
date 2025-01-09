@@ -1260,6 +1260,18 @@ input[type="file"].form-control {
     }
 }
 
+@media (max-width: 768px ) {
+       .nav-bar .nav-bar-links { display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-margin-start: auto;
+        margin-inline-start: auto;
+    }
+}
+
 @media (min-width: 1200px) {
     .nav-bar .nav-bar-links {
         display: -webkit-box;
