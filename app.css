@@ -5927,7 +5927,6 @@ input[type="file"].form-control {
 }
 
 .categories .category {
-    padding: 20px;
     height: 100%;
 }
 
@@ -5943,6 +5942,7 @@ input[type="file"].form-control {
     color: var(--text_color);
     padding-bottom: 16px;
     margin-bottom: 16px;
+    padding: 10px;
 }
 
 .categories .category .category-icon {
@@ -5971,6 +5971,7 @@ input[type="file"].form-control {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
+    padding: 10px;
 }
 
 .categories .category .category-link {
