@@ -482,7 +482,7 @@ a:hover {
 
 .btn.btn-outline-light {
     border-color: #eee;
-    color: #fff;
+    color: var(--secondary_color);
 }
 
 .btn.btn-outline-light:active,
@@ -1146,7 +1146,7 @@ input[type="file"].form-control {
     -webkit-transition: .3s;
     -o-transition: .3s;
     transition: .3s;
-    color: #fff;
+    color: var(--secondary_color);
     cursor: pointer;
 }
 
