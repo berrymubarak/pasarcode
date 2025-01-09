@@ -2304,8 +2304,6 @@ input[type="file"].form-control {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
@@ -2313,16 +2311,16 @@ input[type="file"].form-control {
     -ms-flex-align: center;
     align-items: center;
     text-align: center;
-    padding: 40px 30px;
     background-color: #fff;
     color: #000;
-    border-radius: 8px;
+    border-radius: 5px;
+    border: 1px solid #000;
     height: 100%;
 }
 
 @media (max-width: 575.98px) {
     .home-category {
-        padding: 20px;
+        padding: 10px;
     }
 }
 
@@ -2333,13 +2331,13 @@ input[type="file"].form-control {
 }
 
 .home-category .home-category-img img {
-    width: 80px;
-    height: 80px;
+    width: 50px;
+    height: 50px;
 }
 
 .home-category .home-category-title {
-    margin-top: 16px;
-    margin-bottom: 0;
+    margin: 10px;
+    align-content: center;
 }
 
 .home-category:hover .home-category-img {
