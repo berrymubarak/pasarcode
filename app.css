@@ -2316,6 +2316,7 @@ input[type="file"].form-control {
     border-radius: 5px;
     border: 1px solid #000;
     height: 100%;
+    padding:10px;
 }
 
 @media (max-width: 575.98px) {
