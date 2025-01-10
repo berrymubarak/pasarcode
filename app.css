@@ -1350,7 +1350,7 @@ height: 80px;
 
 .nav-bar .link-btn {
     display: block;
-    margin: 0px 10px;
+    margin: 10px 10px;
 }
 
 .nav-bar .link-btn:not(:last-child) {
