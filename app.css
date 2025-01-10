@@ -1283,11 +1283,8 @@ height: 80px;
     }
 }
 
-@media (min-width: 768px ) {
-       .nav-bar .nav-bar-links { 
-        display: none
-    }
-}
+
+
 @media (min-width: 1200px) {
     .nav-bar .nav-bar-links {
         display: -webkit-box;
