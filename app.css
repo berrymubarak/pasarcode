@@ -1345,9 +1345,18 @@ height: 80px;
     opacity: 1;
 }
 
+
+@media (max-width: 992px) {
 .nav-bar .link-btn {
     display: block;
     margin-bottom: 30px;
+}
+}
+
+@media (min-width: 992px) {
+.nav-bar .link-btn {
+    display: block;
+}
 }
 
 .nav-bar .link-btn:not(:last-child) {
