@@ -1489,7 +1489,7 @@ height: 80px;
 }
 
 .nav-bar.nav-bar-sm .drop-down .drop-down-btn {
-    color: var(--text_muted);
+    color: var(----bs-dark);
 }
 
 .nav-bar.nav-bar-sm .drop-down .drop-down-btn:hover {
