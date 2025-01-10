@@ -1122,6 +1122,10 @@ input[type="file"].form-control {
     height: 80px;
 }
 
+@media (max-width: 768px) {
+    height: 60px;
+}
+
 .nav-bar .nav-bar-actions {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1265,7 +1269,6 @@ input[type="file"].form-control {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
-        -webkit-margin-inline: auto;
         margin-inline: auto;
     }
 }
