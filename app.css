@@ -1433,6 +1433,7 @@ input[type="file"].form-control {
 
 .nav-bar.nav-bar-bg {
     background: #FFFFFF; 
+    border-top: 1px solid var(--border_color);
 }
 
 .nav-bar.nav-bar-sm {
