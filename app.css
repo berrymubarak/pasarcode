@@ -1276,10 +1276,7 @@ height: 80px;
 
 @media (max-width: 768px ) {
        .nav-bar .nav-bar-links { 
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-        margin-inline: auto;
+
     }
 }
 
@@ -1350,7 +1347,7 @@ height: 80px;
 
 .nav-bar .link-btn {
     display: block;
-    margin: 10px 10px;
+    margin-bottom: 30px;
 }
 
 .nav-bar .link-btn:not(:last-child) {
