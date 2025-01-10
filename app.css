@@ -1421,6 +1421,13 @@ input[type="file"].form-control {
     }
 }
 
+@media (max-width: 768px) {
+    .nav-bar.nav-bar-sm {
+    display: none;
+
+    }
+}
+
 .nav-bar.nav-bar-sm {
     border-bottom: 1px solid var(--border_color);
 }
