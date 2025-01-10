@@ -1112,6 +1112,11 @@ input[type="file"].form-control {
     flex-shrink: 0;
 }
 
+@media (max-width: 768px) {
+    .nav-bar .nav-bar-container {
+height: 60px;
+    }
+}
 .nav-bar .nav-bar-container {
     display: -webkit-box;
     display: -ms-flexbox;
