@@ -1,0 +1,78 @@
+.search-form-mobile {
+	    float: left;
+	    position: relative;
+	    margin: 0 auto;
+	    padding: 48px 0;
+	    width: 100%;
+	    list-style: none outside none;
+	}
+
+	label.search-form-label {
+	    cursor: pointer;
+	    display: block;
+	    font-size: 0;
+	    height: 48px;
+	    padding: 0;
+	    position: absolute;
+	    width: 48px;
+	}
+	input.search-form-input[type="text"] {
+	    border: 3px solid #87AD00;
+	    border-radius: 24px;
+        -webkit-border-radius: 24px;
+        -moz-border-radius: 24px;
+        -o-border-radius: 24px;
+        -ms-border-radius: 24px;
+      border-radius: 24px;
+	    color: #969696;
+	    font-size: 16px;
+    font-family: helvetica;
+    font-weight: normal;
+	    font-weight: 300;
+	    height: 48px;
+	    width: 48px;
+	    padding: 0 0 0 44px;
+	    transition: width 0.5s ease-in-out 0s;
+	        -webkit-ransition: width 0.5s ease-in-out 0s;
+	        -moz-ransition: width 0.5s ease-in-out 0s;
+	        -o-ransition: width 0.5s ease-in-out 0s;
+	        -ms-ransition: width 0.5s ease-in-out 0s;
+	    box-sizing: border-box;
+	        -moz-box-sizing: border-box;
+	        -webkit-box-sizing: border-box;
+	        -o-box-sizing: border-box;
+	        -ms-box-sizing: border-box;
+	}
+	input.search-form-input[type="text"]:focus, input.search-form-input[type="text"]:active {
+	    box-shadow: 4px 4px 8px #999;
+	    width: 35%;
+    outline: none;
+	}
+
+#creative-magnifying-glass {
+    font-size: 30px;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border: 3px solid #87AD00;
+    position: relative;
+    border-radius: 35px;
+    left: 15px;
+    top: 15px;
+}
+
+#creative-magnifying-glass:before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    right: -0.25em;
+    bottom: -0.12em;
+    border-width: 0;
+    background: #87AD00;
+    width: 11px;
+    height: 3px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+  transform: rotate(45deg);
