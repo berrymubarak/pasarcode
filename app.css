@@ -1113,6 +1113,12 @@ input[type="file"].form-control {
 }
 
 @media (max-width: 992px) {
+.nav-bar {
+    border-bottom: 1px solid var(--border_color);
+}
+}
+
+@media (max-width: 992px) {
     .nav-bar .nav-bar-container {
 height: 60px;
     }
