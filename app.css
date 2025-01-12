@@ -719,31 +719,31 @@ input[type="file"].form-control {
 
 .form-control::-webkit-input-placeholder {
     color: var(--text_muted);
-    opacity: 0.1;
+    opacity: 0.5;
 
 }
 
 .form-control::-moz-placeholder {
     color: var(--text_muted);
-    opacity: 0.1;
+    opacity: 0.5;
 
 }
 
 .form-control:-ms-input-placeholder {
     color: var(--text_muted);
-    opacity: 0.1;
+    opacity: 0.5;
 
 }
 
 .form-control::-ms-input-placeholder {
     color: var(--text_muted);
-    opacity: 0.1;
+    opacity: 0.5;
 
 }
 
 .form-control::placeholder {
     color: var(--text_muted);
-    opacity: 0.1;
+    opacity: 0.5;
 }
 
 .form-control[type="file"].form-control-md {
