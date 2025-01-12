@@ -1122,7 +1122,7 @@ input[type="file"].form-control {
 
 @media (max-width: 992px) {
     .nav-bar .nav-bar-container {
-height: 60px;
+height: 50px;
     }
 }
 
