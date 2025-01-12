@@ -17,6 +17,7 @@
 	    width: 48px;
 	}
 	input.search-form-input[type="text"] {
+		float:right;
 	    border: 3px solid #87AD00;
 	    border-radius: 24px;
         -webkit-border-radius: 24px;
