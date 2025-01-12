@@ -80,7 +80,7 @@
 }
 
 .search-mobile:focus {
-	width: 363px; /* Bar width+1px */
+	width: 200px; /* Bar width+1px */
 	padding: 0 16px 0 0;
 }
 
