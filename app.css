@@ -6136,15 +6136,6 @@ height: 80px;
     color: #000;
 }
 
-.footer .footer-title .footer-title-divider {
-    position: relative;
-    width: 40px;
-    height: 4px;
-    margin-top: 4px;
-    border-radius: 16px;
-    background-color: var(--primary_color);
-}
-
 .footer .footer-text {
     color: var(--footer_text_color);
     margin-bottom: 0;
