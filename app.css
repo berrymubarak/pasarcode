@@ -1114,6 +1114,9 @@ input[type="file"].form-control {
 
 @media (max-width: 992px) {
 .nav-bar {
+    position: sticky;
+    top: 0px;
+    z-index: 100;
     border-bottom: 1px solid var(--border_color);
 }
 }
