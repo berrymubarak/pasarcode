@@ -481,7 +481,6 @@ a:hover {
 }
 
 .btn.btn-outline-light {
-    border-color: #eee;
     color: var(--secondary_color);
 }
 
