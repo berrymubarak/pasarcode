@@ -4724,7 +4724,7 @@ height: 80px;
     height: 30px;
     background-color: var(--item_preview_navbar_background);
     cursor: pointer;
-    color: #fff;
+    color: #000;
 }
 
 .preview-btn i {
